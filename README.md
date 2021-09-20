@@ -123,7 +123,12 @@ Step 1 — Sign up on heroku.com and click on ‘Create new app’
 Step 2 — Enter App name and region
 Step 3 — Connect to your GitHub repository where code is hosted
 Step 4 — Deploy branch
-Step 5 — Wait 5–10 minutes and BOOM
+
+
+## FLOW CHART:
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/43957442/134016410-014367d4-8dc4-4617-8d13-68d76d4c08b2.png)
+
+
 
 ### App is published to URL: https://pycaret-insurance.herokuapp.com/
  
